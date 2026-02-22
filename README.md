@@ -65,7 +65,7 @@ Context Windows:
 ![image](https://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/context.PNG)
 
 Experiment Results:
-![image](http://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/experiment.PNG)
+![image](https://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/experiment.PNG)
 
 ---
 
