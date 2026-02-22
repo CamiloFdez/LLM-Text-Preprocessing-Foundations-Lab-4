@@ -58,7 +58,14 @@ This experiment demonstrates:
 
 ## Image
 Here's a visual representation of the notebook structure and key concepts:
-![image]
+Tokenization:
+![image](https://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/token.PNG)
+
+Context Windows:
+![image](https://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/context.PNG)
+
+Experiment Results:
+![image](http://github.com/CamiloFdez/LLM-Text-Preprocessing-Foundations-Lab-4/blob/main/images/experiment.PNG)
 
 ---
 
